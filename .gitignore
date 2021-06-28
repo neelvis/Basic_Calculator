@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Basic Calculator/task/build/
+/Basic Calculator/task/build/intermediates/javac/debug/classes/
